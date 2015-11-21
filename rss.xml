@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kendsign]]></title>
+        <description><![CDATA[kendsign]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 Nov 2015 20:57:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Em dezembro, blogs inéditos estreiam no Viver Bem]]></title>
+            <description><![CDATA[<article><h1>Em dezembro, blogs inéditos estreiam no Viver Bem</h1><p>O mês de dezembro é um marco na história da Gazeta do Povo e do Viver Bem. Novo formato para todo o jornal a partir do dia 1.º de dezembro, estreia da edição de fim de semana no dia 5, nova cara do suplemento de domingo e muito mais informação (saiba mais em Vida & Cidadania).</p><img src="http://www.gazetadopovo.com.br/viver-bem/wp-content/uploads/2015/11/smith-prd-meth01-tom_rpc_intraCAWA3F0E.jpg"></article>]]></description>
+            <link>undefinedem-dezembro-blogs-ineditos-estreiam-no-viver-bem/index.html</link>
+            <guid isPermaLink="false">400b3b30-5254-496f-bb2b-20359fa7c724</guid>
+            <pubDate>Sat, 21 Nov 2015 20:56:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
