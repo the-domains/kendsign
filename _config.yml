@@ -1,6 +1,6 @@
 name: kendsign
 favicon: null
-layout_spectrum: 0.7673047475982457
+layout_spectrum: 1
 typography_spectrum: 0.6148394064512104
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#fbf840'
     - '#3c1008'
   brandStrength: 0
-  lightness: 0.16414184588938951
+  lightness: 0
   saturation: 0.4759012886788696
-  rhythmicContrast: 0.19643127568997443
+  rhythmicContrast: 0.75
 purpose: []
